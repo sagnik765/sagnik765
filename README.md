@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sagnik765
-- 👀 I’m interested in Business Analytics, UX Design, Digital Marketing
+- 👀 I’m interested in Machine Learning, UX Design, Internet of Things
 - 🌱 I’m currently learning Computer Science Engineering, Big Data Analytics
 - 💞️ I’m looking to collaborate on any Freelance Projects, Mentorship Roles
 - 📫 You can reach me at sagnikroy777@gmail.com

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sagnik765
 - 👀 I’m interested in Machine Learning, UX Design, Internet of Things
-- 🌱 I’m currently learning Computer Science Engineering, Big Data Analytics
+- 🌱 I’m currently studying Business Analystics at D'Amore McKim School of Business
 - 💞️ I’m looking to collaborate on any Freelance Projects, Mentorship Roles
 - 📫 You can reach me at sagnikroy777@gmail.com
 - 📞 My LinkedIn profile at https://www.linkedin.com/in/sagnik-roy-2001/

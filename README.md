@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sagnik765
-- 👀 I’m interested in Business Intelligence, Machine Learning, UX Design
-- 🌱 I’m currently studying Business Analystics at Northeastern University, D'Amore McKim School of Business
+- 👀 My interests include Business Intelligence, Machine Learning, UX Design
+- 🌱 I graduated studying Business Analystics at Northeastern University, D'Amore McKim School of Business
 - 💞️ I’m looking to collaborate on any Full-time, Mentorship Roles
 - 📫 You can reach me at sagnikroy777@gmail.com
 

@@ -10,10 +10,10 @@ I build data products and applied ML systems with a focus on business impact, ex
 - AI product strategy and delivery
 
 ## Tech Stack
-- Python, SQL, Pandas, scikit-learn, Agentic AI
-- Spark, MLflow (optional), data pipelines
+- Python, SQL, Pandas, Scikit-learn, Agentic AI
+- Spark, MLflow, Data Pipelines 
 - BI: Tableau, Sigma BI, Power BI, dashboards
-- Product: experimentation, metrics, stakeholder alignment
+- Product: Experimentation, Metrics, Stakeholder Alignment
 
 ## Open To
 - Data Scientist roles

@@ -16,9 +16,9 @@ I build data products and applied ML systems with a focus on business impact, ex
 - Real-time-Data-Acquisition-App: telemetry and Firebase-backed data capture
 
 ## Tech Stack
-- Python, SQL, Pandas, scikit-learn
+- Python, SQL, Pandas, scikit-learn, Agentic AI
 - Spark, MLflow (optional), data pipelines
-- BI: Tableau, Power BI, dashboards
+- BI: Tableau, Sigma BI, Power BI, dashboards
 - Product: experimentation, metrics, stakeholder alignment
 
 ## Open To

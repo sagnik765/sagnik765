@@ -9,12 +9,6 @@ I build data products and applied ML systems with a focus on business impact, ex
 - Big data pipelines and model-ready datasets
 - AI product strategy and delivery
 
-## Selected Projects
-- Ai-Claims-Fraud-Detection: multimodal fraud detection with agentic workflow (text + image + structured)
-- Malaria-Infection-Detection: CNN-based classification of infected vs healthy cells
-- American-Sign-Language-Text-Convertor: vision-based ASL to text prototype
-- Real-time-Data-Acquisition-App: telemetry and Firebase-backed data capture
-
 ## Tech Stack
 - Python, SQL, Pandas, scikit-learn, Agentic AI
 - Spark, MLflow (optional), data pipelines
